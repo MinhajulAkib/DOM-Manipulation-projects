@@ -1,0 +1,35 @@
+/* memory part */
+.memory{
+  margin-top: 5%;
+}
+.memorycolor {
+  background-color: white;
+}
+.memorycolor:hover {
+  background-color: black;
+  color: cornsilk;
+}
+
+/* storage part */
+.storage{
+  margin-top: 5%;
+}
+.storagecolor {
+  background-color: white;
+}
+.storagecolor:hover {
+  background-color: black;
+  color: cornsilk;
+}
+
+/* delivery part */
+.delivery{
+  margin-top: 5%;
+}
+.deliverycolor {
+  background-color: white;
+}
+.deliverycolor:hover {
+  background-color: black;
+  color: cornsilk;
+}
